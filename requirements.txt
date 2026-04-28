@@ -5,3 +5,5 @@ seaborn
 emoji
 wordcloud
 numpy
+urlextract
+collections
